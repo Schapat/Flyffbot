@@ -1,0 +1,12 @@
+D:\patrick\Flyffbot2\Flyffbot2\bin\Release\Flyffbot2.exe.config
+D:\patrick\Flyffbot2\Flyffbot2\bin\Release\Flyffbot2.exe
+D:\patrick\Flyffbot2\Flyffbot2\bin\Release\Flyffbot2.pdb
+D:\patrick\Flyffbot2\Flyffbot2\bin\Release\MetroFramework.dll
+D:\patrick\Flyffbot2\Flyffbot2\bin\Release\MetroFramework.Fonts.dll
+D:\patrick\Flyffbot2\Flyffbot2\obj\Release\Flyffbot2.Form1.resources
+D:\patrick\Flyffbot2\Flyffbot2\obj\Release\Flyffbot2.Properties.Resources.resources
+D:\patrick\Flyffbot2\Flyffbot2\obj\Release\Flyffbot.csproj.GenerateResource.cache
+D:\patrick\Flyffbot2\Flyffbot2\obj\Release\Flyffbot.csproj.CopyComplete
+D:\patrick\Flyffbot2\Flyffbot2\obj\Release\Flyffbot2.exe
+D:\patrick\Flyffbot2\Flyffbot2\obj\Release\Flyffbot2.pdb
+D:\patrick\Flyffbot2\Flyffbot2\obj\Release\Flyffbot.csprojAssemblyReference.cache

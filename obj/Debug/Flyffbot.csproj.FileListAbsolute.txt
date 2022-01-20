@@ -1,0 +1,4 @@
+D:\patrick\Flyffbot2\Flyffbot2\obj\Debug\Flyffbot.csprojAssemblyReference.cache
+D:\patrick\Flyffbot2\Flyffbot2\obj\Debug\Flyffbot2.Form1.resources
+D:\patrick\Flyffbot2\Flyffbot2\obj\Debug\Flyffbot2.Properties.Resources.resources
+D:\patrick\Flyffbot2\Flyffbot2\obj\Debug\Flyffbot.csproj.GenerateResource.cache
